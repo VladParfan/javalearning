@@ -41,7 +41,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>org.parfan.App</mainClass>
+              <mainClass>org.parfan.lesson_18.StartProject</mainClass>
             </manifest>
           </archive>
         </configuration>
